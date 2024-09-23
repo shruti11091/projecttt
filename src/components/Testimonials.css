@@ -1,0 +1,13 @@
+.testimonials {
+    padding: 60px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .testimonial-card {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
